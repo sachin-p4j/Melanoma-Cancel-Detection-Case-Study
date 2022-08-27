@@ -1,1 +1,1 @@
-# Melanoma-Cancel-Detection-Case-Study
+# Melanoma-Cancer-Detection-Case-Study
